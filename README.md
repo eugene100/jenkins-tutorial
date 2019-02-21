@@ -3,7 +3,8 @@
 ToDo:
 
 - [x] Create sample application
-- [ ] Develop script for creating repositories and push the sample code there
+- [x] Develop script for creating repositories and push the sample code there
+- [x] Kubernetes with KOPS
 - [ ] Simple way to setup Jenkins as a container
 - [ ] Apply organization plugin to GitHub. Test CI.
 - [ ] Deployment with multienvironment ability. Based on environment repository.
